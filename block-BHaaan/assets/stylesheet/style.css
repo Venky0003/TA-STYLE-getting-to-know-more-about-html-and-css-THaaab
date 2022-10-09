@@ -50,7 +50,7 @@ table {
  /*-------------Custom CSS Styling starts here------------ */
 
  body{
-    text-align: center;
+   
     line-height: 1.5;
   
  }
@@ -76,17 +76,16 @@ a{
  }
  h2{
    font-size: 26px;
-   margin-right: 24%;
+  
  }
  p{
-   text-align: center;
+  
    font-size: 16px;
    
  }
  h4{
     font-size:20px;
-    text-align: center;
-    margin-right:27%;
+    
     margin-top: 10px;
     margin-bottom: 10px;
     letter-spacing: .5px;
@@ -95,19 +94,18 @@ a{
 .readmore{
     font-size: 18px;
     color:blue;
-    margin-right:32%;
     margin-top: 10px;
     margin-bottom: 10px;
 }
 .footer{
+    text-align: center;
     background-color: blue;
     padding: 15px;
  
 }
-hr{
-   
-  margin-left: 25%;
-  margin-right: 25%;
-}
 
+.blog{
+  width:600px;
+ margin:0 auto;
+}
 
